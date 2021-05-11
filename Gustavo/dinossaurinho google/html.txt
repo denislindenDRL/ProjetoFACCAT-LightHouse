@@ -1,8 +1,0 @@
-<section class="arena">
-  
-  <section class="scenario">
-    <div class="wall"></div>
-    <div id="dino"></div>
-  </section>
-  
-</section>
